@@ -16,7 +16,7 @@ public class Main {
             } else if (guess > numberToGuess) {
                 System.out.println("Guess lower.");
             } else {
-                System.out.println("Congratulations! You've guessed true.");
+                System.out.println("Congratulations!  Its True.");
             }
         } while (guess != numberToGuess);
 
